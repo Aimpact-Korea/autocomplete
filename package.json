@@ -1,6 +1,5 @@
 {
-  "name": "@ssoon/autocomplete",
-  "private": false,
+  "private": true,
   "scripts": {
     "postinstall": "lerna bootstrap",
     "start": "concurrently \"npm:storybook:js\" \"npm:storybook:vue\"",
