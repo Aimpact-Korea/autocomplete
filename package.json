@@ -1,5 +1,5 @@
 {
-  "name": "@ssoon/vue-autocomplete",
+  "name": "@ssoon/autocomplete",
   "private": false,
   "scripts": {
     "postinstall": "lerna bootstrap",
